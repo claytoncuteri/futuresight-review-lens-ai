@@ -1,0 +1,451 @@
+rating,text,author,date,language
+5,The patio is great in summer (visit 0),,2023-01-01,en
+2,Service was slow on the weekend (visit 1),Reviewer 1,2023-02-02,en
+2,Parking lot fills up early (visit 2),Reviewer 2,2023-03-03,en
+5,Best coffee in the neighborhood (visit 3),,2023-04-04,en
+4,Friendly and attentive staff (visit 4),Reviewer 4,2023-05-05,en
+3,Very loud during peak hours (visit 5),Reviewer 5,2023-06-06,en
+3,A bit pricey for the portion (visit 6),,2023-07-07,en
+5,Food was fresh and delicious (visit 7),Reviewer 7,2023-08-08,en
+2,Waited 40 minutes for a table (visit 8),Reviewer 8,2023-09-09,en
+4,"Cozy atmosphere, will return (visit 9)",,2023-10-10,en
+5,The patio is great in summer (visit 10),Reviewer 10,2023-11-11,en
+2,Service was slow on the weekend (visit 11),Reviewer 11,2023-12-12,en
+2,Parking lot fills up early (visit 12),,2023-01-13,en
+5,Best coffee in the neighborhood (visit 13),Reviewer 13,2023-02-14,en
+4,Friendly and attentive staff (visit 14),Reviewer 14,2023-03-15,en
+3,Very loud during peak hours (visit 15),,2023-04-16,en
+3,A bit pricey for the portion (visit 16),Reviewer 16,2023-05-17,en
+5,Food was fresh and delicious (visit 17),Reviewer 17,2023-06-18,en
+2,Waited 40 minutes for a table (visit 18),,2023-07-19,en
+4,"Cozy atmosphere, will return (visit 19)",Reviewer 19,2023-08-20,en
+5,The patio is great in summer (visit 20),Reviewer 20,2023-09-21,en
+2,Service was slow on the weekend (visit 21),,2023-10-22,en
+2,Parking lot fills up early (visit 22),Reviewer 22,2023-11-23,en
+5,Best coffee in the neighborhood (visit 23),Reviewer 23,2023-12-24,en
+4,Friendly and attentive staff (visit 24),,2023-01-25,en
+3,Very loud during peak hours (visit 25),Reviewer 25,2023-02-26,en
+3,A bit pricey for the portion (visit 26),Reviewer 26,2023-03-27,en
+5,Food was fresh and delicious (visit 27),,2023-04-01,en
+2,Waited 40 minutes for a table (visit 28),Reviewer 28,2023-05-02,en
+4,"Cozy atmosphere, will return (visit 29)",Reviewer 29,2023-06-03,en
+5,The patio is great in summer (visit 30),,2023-07-04,en
+2,Service was slow on the weekend (visit 31),Reviewer 31,2023-08-05,en
+2,Parking lot fills up early (visit 32),Reviewer 32,2023-09-06,en
+5,Best coffee in the neighborhood (visit 33),,2023-10-07,en
+4,Friendly and attentive staff (visit 34),Reviewer 34,2023-11-08,en
+3,Very loud during peak hours (visit 35),Reviewer 35,2023-12-09,en
+3,A bit pricey for the portion (visit 36),,2023-01-10,en
+5,Food was fresh and delicious (visit 37),Reviewer 37,2023-02-11,en
+2,Waited 40 minutes for a table (visit 38),Reviewer 38,2023-03-12,en
+4,"Cozy atmosphere, will return (visit 39)",,2023-04-13,en
+5,The patio is great in summer (visit 40),Reviewer 40,2023-05-14,en
+2,Service was slow on the weekend (visit 41),Reviewer 41,2023-06-15,en
+2,Parking lot fills up early (visit 42),,2023-07-16,en
+5,Best coffee in the neighborhood (visit 43),Reviewer 43,2023-08-17,en
+4,Friendly and attentive staff (visit 44),Reviewer 44,2023-09-18,en
+3,Very loud during peak hours (visit 45),,2023-10-19,en
+3,A bit pricey for the portion (visit 46),Reviewer 46,2023-11-20,en
+5,Food was fresh and delicious (visit 47),Reviewer 47,2023-12-21,en
+2,Waited 40 minutes for a table (visit 48),,2023-01-22,en
+4,"Cozy atmosphere, will return (visit 49)",Reviewer 49,2023-02-23,en
+5,The patio is great in summer (visit 50),Reviewer 50,2023-03-24,en
+2,Service was slow on the weekend (visit 51),,2023-04-25,en
+2,Parking lot fills up early (visit 52),Reviewer 52,2023-05-26,en
+5,Best coffee in the neighborhood (visit 53),Reviewer 53,2023-06-27,en
+4,Friendly and attentive staff (visit 54),,2023-07-01,en
+3,Very loud during peak hours (visit 55),Reviewer 55,2023-08-02,en
+3,A bit pricey for the portion (visit 56),Reviewer 56,2023-09-03,en
+5,Food was fresh and delicious (visit 57),,2023-10-04,en
+2,Waited 40 minutes for a table (visit 58),Reviewer 58,2023-11-05,en
+4,"Cozy atmosphere, will return (visit 59)",Reviewer 59,2023-12-06,en
+5,The patio is great in summer (visit 60),,2023-01-07,en
+2,Service was slow on the weekend (visit 61),Reviewer 61,2023-02-08,en
+2,Parking lot fills up early (visit 62),Reviewer 62,2023-03-09,en
+5,Best coffee in the neighborhood (visit 63),,2023-04-10,en
+4,Friendly and attentive staff (visit 64),Reviewer 64,2023-05-11,en
+3,Very loud during peak hours (visit 65),Reviewer 65,2023-06-12,en
+3,A bit pricey for the portion (visit 66),,2023-07-13,en
+5,Food was fresh and delicious (visit 67),Reviewer 67,2023-08-14,en
+2,Waited 40 minutes for a table (visit 68),Reviewer 68,2023-09-15,en
+4,"Cozy atmosphere, will return (visit 69)",,2023-10-16,en
+5,The patio is great in summer (visit 70),Reviewer 70,2023-11-17,en
+2,Service was slow on the weekend (visit 71),Reviewer 71,2023-12-18,en
+2,Parking lot fills up early (visit 72),,2023-01-19,en
+5,Best coffee in the neighborhood (visit 73),Reviewer 73,2023-02-20,en
+4,Friendly and attentive staff (visit 74),Reviewer 74,2023-03-21,en
+3,Very loud during peak hours (visit 75),,2023-04-22,en
+3,A bit pricey for the portion (visit 76),Reviewer 76,2023-05-23,en
+5,Food was fresh and delicious (visit 77),Reviewer 77,2023-06-24,en
+2,Waited 40 minutes for a table (visit 78),,2023-07-25,en
+4,"Cozy atmosphere, will return (visit 79)",Reviewer 79,2023-08-26,en
+5,The patio is great in summer (visit 80),Reviewer 80,2023-09-27,en
+2,Service was slow on the weekend (visit 81),,2023-10-01,en
+2,Parking lot fills up early (visit 82),Reviewer 82,2023-11-02,en
+5,Best coffee in the neighborhood (visit 83),Reviewer 83,2023-12-03,en
+4,Friendly and attentive staff (visit 84),,2023-01-04,en
+3,Very loud during peak hours (visit 85),Reviewer 85,2023-02-05,en
+3,A bit pricey for the portion (visit 86),Reviewer 86,2023-03-06,en
+5,Food was fresh and delicious (visit 87),,2023-04-07,en
+2,Waited 40 minutes for a table (visit 88),Reviewer 88,2023-05-08,en
+4,"Cozy atmosphere, will return (visit 89)",Reviewer 89,2023-06-09,en
+5,The patio is great in summer (visit 90),,2023-07-10,en
+2,Service was slow on the weekend (visit 91),Reviewer 91,2023-08-11,en
+2,Parking lot fills up early (visit 92),Reviewer 92,2023-09-12,en
+5,Best coffee in the neighborhood (visit 93),,2023-10-13,en
+4,Friendly and attentive staff (visit 94),Reviewer 94,2023-11-14,en
+3,Very loud during peak hours (visit 95),Reviewer 95,2023-12-15,en
+3,A bit pricey for the portion (visit 96),,2023-01-16,en
+5,Food was fresh and delicious (visit 97),Reviewer 97,2023-02-17,en
+2,Waited 40 minutes for a table (visit 98),Reviewer 98,2023-03-18,en
+4,"Cozy atmosphere, will return (visit 99)",,2023-04-19,en
+5,The patio is great in summer (visit 100),Reviewer 100,2023-05-20,en
+2,Service was slow on the weekend (visit 101),Reviewer 101,2023-06-21,en
+2,Parking lot fills up early (visit 102),,2023-07-22,en
+5,Best coffee in the neighborhood (visit 103),Reviewer 103,2023-08-23,en
+4,Friendly and attentive staff (visit 104),Reviewer 104,2023-09-24,en
+3,Very loud during peak hours (visit 105),,2023-10-25,en
+3,A bit pricey for the portion (visit 106),Reviewer 106,2023-11-26,en
+5,Food was fresh and delicious (visit 107),Reviewer 107,2023-12-27,en
+2,Waited 40 minutes for a table (visit 108),,2023-01-01,en
+4,"Cozy atmosphere, will return (visit 109)",Reviewer 109,2023-02-02,en
+5,The patio is great in summer (visit 110),Reviewer 110,2023-03-03,en
+2,Service was slow on the weekend (visit 111),,2023-04-04,en
+2,Parking lot fills up early (visit 112),Reviewer 112,2023-05-05,en
+5,Best coffee in the neighborhood (visit 113),Reviewer 113,2023-06-06,en
+4,Friendly and attentive staff (visit 114),,2023-07-07,en
+3,Very loud during peak hours (visit 115),Reviewer 115,2023-08-08,en
+3,A bit pricey for the portion (visit 116),Reviewer 116,2023-09-09,en
+5,Food was fresh and delicious (visit 117),,2023-10-10,en
+2,Waited 40 minutes for a table (visit 118),Reviewer 118,2023-11-11,en
+4,"Cozy atmosphere, will return (visit 119)",Reviewer 119,2023-12-12,en
+5,The patio is great in summer (visit 120),,2023-01-13,en
+2,Service was slow on the weekend (visit 121),Reviewer 121,2023-02-14,en
+2,Parking lot fills up early (visit 122),Reviewer 122,2023-03-15,en
+5,Best coffee in the neighborhood (visit 123),,2023-04-16,en
+4,Friendly and attentive staff (visit 124),Reviewer 124,2023-05-17,en
+3,Very loud during peak hours (visit 125),Reviewer 125,2023-06-18,en
+3,A bit pricey for the portion (visit 126),,2023-07-19,en
+5,Food was fresh and delicious (visit 127),Reviewer 127,2023-08-20,en
+2,Waited 40 minutes for a table (visit 128),Reviewer 128,2023-09-21,en
+4,"Cozy atmosphere, will return (visit 129)",,2023-10-22,en
+5,The patio is great in summer (visit 130),Reviewer 130,2023-11-23,en
+2,Service was slow on the weekend (visit 131),Reviewer 131,2023-12-24,en
+2,Parking lot fills up early (visit 132),,2023-01-25,en
+5,Best coffee in the neighborhood (visit 133),Reviewer 133,2023-02-26,en
+4,Friendly and attentive staff (visit 134),Reviewer 134,2023-03-27,en
+3,Very loud during peak hours (visit 135),,2023-04-01,en
+3,A bit pricey for the portion (visit 136),Reviewer 136,2023-05-02,en
+5,Food was fresh and delicious (visit 137),Reviewer 137,2023-06-03,en
+2,Waited 40 minutes for a table (visit 138),,2023-07-04,en
+4,"Cozy atmosphere, will return (visit 139)",Reviewer 139,2023-08-05,en
+5,The patio is great in summer (visit 140),Reviewer 140,2023-09-06,en
+2,Service was slow on the weekend (visit 141),,2023-10-07,en
+2,Parking lot fills up early (visit 142),Reviewer 142,2023-11-08,en
+5,Best coffee in the neighborhood (visit 143),Reviewer 143,2023-12-09,en
+4,Friendly and attentive staff (visit 144),,2023-01-10,en
+3,Very loud during peak hours (visit 145),Reviewer 145,2023-02-11,en
+3,A bit pricey for the portion (visit 146),Reviewer 146,2023-03-12,en
+5,Food was fresh and delicious (visit 147),,2023-04-13,en
+2,Waited 40 minutes for a table (visit 148),Reviewer 148,2023-05-14,en
+4,"Cozy atmosphere, will return (visit 149)",Reviewer 149,2023-06-15,en
+5,The patio is great in summer (visit 150),,2023-07-16,en
+2,Service was slow on the weekend (visit 151),Reviewer 151,2023-08-17,en
+2,Parking lot fills up early (visit 152),Reviewer 152,2023-09-18,en
+5,Best coffee in the neighborhood (visit 153),,2023-10-19,en
+4,Friendly and attentive staff (visit 154),Reviewer 154,2023-11-20,en
+3,Very loud during peak hours (visit 155),Reviewer 155,2023-12-21,en
+3,A bit pricey for the portion (visit 156),,2023-01-22,en
+5,Food was fresh and delicious (visit 157),Reviewer 157,2023-02-23,en
+2,Waited 40 minutes for a table (visit 158),Reviewer 158,2023-03-24,en
+4,"Cozy atmosphere, will return (visit 159)",,2023-04-25,en
+5,The patio is great in summer (visit 160),Reviewer 160,2023-05-26,en
+2,Service was slow on the weekend (visit 161),Reviewer 161,2023-06-27,en
+2,Parking lot fills up early (visit 162),,2023-07-01,en
+5,Best coffee in the neighborhood (visit 163),Reviewer 163,2023-08-02,en
+4,Friendly and attentive staff (visit 164),Reviewer 164,2023-09-03,en
+3,Very loud during peak hours (visit 165),,2023-10-04,en
+3,A bit pricey for the portion (visit 166),Reviewer 166,2023-11-05,en
+5,Food was fresh and delicious (visit 167),Reviewer 167,2023-12-06,en
+2,Waited 40 minutes for a table (visit 168),,2023-01-07,en
+4,"Cozy atmosphere, will return (visit 169)",Reviewer 169,2023-02-08,en
+5,The patio is great in summer (visit 170),Reviewer 170,2023-03-09,en
+2,Service was slow on the weekend (visit 171),,2023-04-10,en
+2,Parking lot fills up early (visit 172),Reviewer 172,2023-05-11,en
+5,Best coffee in the neighborhood (visit 173),Reviewer 173,2023-06-12,en
+4,Friendly and attentive staff (visit 174),,2023-07-13,en
+3,Very loud during peak hours (visit 175),Reviewer 175,2023-08-14,en
+3,A bit pricey for the portion (visit 176),Reviewer 176,2023-09-15,en
+5,Food was fresh and delicious (visit 177),,2023-10-16,en
+2,Waited 40 minutes for a table (visit 178),Reviewer 178,2023-11-17,en
+4,"Cozy atmosphere, will return (visit 179)",Reviewer 179,2023-12-18,en
+5,The patio is great in summer (visit 180),,2023-01-19,en
+2,Service was slow on the weekend (visit 181),Reviewer 181,2023-02-20,en
+2,Parking lot fills up early (visit 182),Reviewer 182,2023-03-21,en
+5,Best coffee in the neighborhood (visit 183),,2023-04-22,en
+4,Friendly and attentive staff (visit 184),Reviewer 184,2023-05-23,en
+3,Very loud during peak hours (visit 185),Reviewer 185,2023-06-24,en
+3,A bit pricey for the portion (visit 186),,2023-07-25,en
+5,Food was fresh and delicious (visit 187),Reviewer 187,2023-08-26,en
+2,Waited 40 minutes for a table (visit 188),Reviewer 188,2023-09-27,en
+4,"Cozy atmosphere, will return (visit 189)",,2023-10-01,en
+5,The patio is great in summer (visit 190),Reviewer 190,2023-11-02,en
+2,Service was slow on the weekend (visit 191),Reviewer 191,2023-12-03,en
+2,Parking lot fills up early (visit 192),,2023-01-04,en
+5,Best coffee in the neighborhood (visit 193),Reviewer 193,2023-02-05,en
+4,Friendly and attentive staff (visit 194),Reviewer 194,2023-03-06,en
+3,Very loud during peak hours (visit 195),,2023-04-07,en
+3,A bit pricey for the portion (visit 196),Reviewer 196,2023-05-08,en
+5,Food was fresh and delicious (visit 197),Reviewer 197,2023-06-09,en
+2,Waited 40 minutes for a table (visit 198),,2023-07-10,en
+4,"Cozy atmosphere, will return (visit 199)",Reviewer 199,2023-08-11,en
+5,The patio is great in summer (visit 200),Reviewer 200,2023-09-12,en
+2,Service was slow on the weekend (visit 201),,2023-10-13,en
+2,Parking lot fills up early (visit 202),Reviewer 202,2023-11-14,en
+5,Best coffee in the neighborhood (visit 203),Reviewer 203,2023-12-15,en
+4,Friendly and attentive staff (visit 204),,2023-01-16,en
+3,Very loud during peak hours (visit 205),Reviewer 205,2023-02-17,en
+3,A bit pricey for the portion (visit 206),Reviewer 206,2023-03-18,en
+5,Food was fresh and delicious (visit 207),,2023-04-19,en
+2,Waited 40 minutes for a table (visit 208),Reviewer 208,2023-05-20,en
+4,"Cozy atmosphere, will return (visit 209)",Reviewer 209,2023-06-21,en
+5,The patio is great in summer (visit 210),,2023-07-22,en
+2,Service was slow on the weekend (visit 211),Reviewer 211,2023-08-23,en
+2,Parking lot fills up early (visit 212),Reviewer 212,2023-09-24,en
+5,Best coffee in the neighborhood (visit 213),,2023-10-25,en
+4,Friendly and attentive staff (visit 214),Reviewer 214,2023-11-26,en
+3,Very loud during peak hours (visit 215),Reviewer 215,2023-12-27,en
+3,A bit pricey for the portion (visit 216),,2023-01-01,en
+5,Food was fresh and delicious (visit 217),Reviewer 217,2023-02-02,en
+2,Waited 40 minutes for a table (visit 218),Reviewer 218,2023-03-03,en
+4,"Cozy atmosphere, will return (visit 219)",,2023-04-04,en
+5,The patio is great in summer (visit 220),Reviewer 220,2023-05-05,en
+2,Service was slow on the weekend (visit 221),Reviewer 221,2023-06-06,en
+2,Parking lot fills up early (visit 222),,2023-07-07,en
+5,Best coffee in the neighborhood (visit 223),Reviewer 223,2023-08-08,en
+4,Friendly and attentive staff (visit 224),Reviewer 224,2023-09-09,en
+3,Very loud during peak hours (visit 225),,2023-10-10,en
+3,A bit pricey for the portion (visit 226),Reviewer 226,2023-11-11,en
+5,Food was fresh and delicious (visit 227),Reviewer 227,2023-12-12,en
+2,Waited 40 minutes for a table (visit 228),,2023-01-13,en
+4,"Cozy atmosphere, will return (visit 229)",Reviewer 229,2023-02-14,en
+5,The patio is great in summer (visit 230),Reviewer 230,2023-03-15,en
+2,Service was slow on the weekend (visit 231),,2023-04-16,en
+2,Parking lot fills up early (visit 232),Reviewer 232,2023-05-17,en
+5,Best coffee in the neighborhood (visit 233),Reviewer 233,2023-06-18,en
+4,Friendly and attentive staff (visit 234),,2023-07-19,en
+3,Very loud during peak hours (visit 235),Reviewer 235,2023-08-20,en
+3,A bit pricey for the portion (visit 236),Reviewer 236,2023-09-21,en
+5,Food was fresh and delicious (visit 237),,2023-10-22,en
+2,Waited 40 minutes for a table (visit 238),Reviewer 238,2023-11-23,en
+4,"Cozy atmosphere, will return (visit 239)",Reviewer 239,2023-12-24,en
+5,The patio is great in summer (visit 240),,2023-01-25,en
+2,Service was slow on the weekend (visit 241),Reviewer 241,2023-02-26,en
+2,Parking lot fills up early (visit 242),Reviewer 242,2023-03-27,en
+5,Best coffee in the neighborhood (visit 243),,2023-04-01,en
+4,Friendly and attentive staff (visit 244),Reviewer 244,2023-05-02,en
+3,Very loud during peak hours (visit 245),Reviewer 245,2023-06-03,en
+3,A bit pricey for the portion (visit 246),,2023-07-04,en
+5,Food was fresh and delicious (visit 247),Reviewer 247,2023-08-05,en
+2,Waited 40 minutes for a table (visit 248),Reviewer 248,2023-09-06,en
+4,"Cozy atmosphere, will return (visit 249)",,2023-10-07,en
+5,The patio is great in summer (visit 250),Reviewer 250,2023-11-08,en
+2,Service was slow on the weekend (visit 251),Reviewer 251,2023-12-09,en
+2,Parking lot fills up early (visit 252),,2023-01-10,en
+5,Best coffee in the neighborhood (visit 253),Reviewer 253,2023-02-11,en
+4,Friendly and attentive staff (visit 254),Reviewer 254,2023-03-12,en
+3,Very loud during peak hours (visit 255),,2023-04-13,en
+3,A bit pricey for the portion (visit 256),Reviewer 256,2023-05-14,en
+5,Food was fresh and delicious (visit 257),Reviewer 257,2023-06-15,en
+2,Waited 40 minutes for a table (visit 258),,2023-07-16,en
+4,"Cozy atmosphere, will return (visit 259)",Reviewer 259,2023-08-17,en
+5,The patio is great in summer (visit 260),Reviewer 260,2023-09-18,en
+2,Service was slow on the weekend (visit 261),,2023-10-19,en
+2,Parking lot fills up early (visit 262),Reviewer 262,2023-11-20,en
+5,Best coffee in the neighborhood (visit 263),Reviewer 263,2023-12-21,en
+4,Friendly and attentive staff (visit 264),,2023-01-22,en
+3,Very loud during peak hours (visit 265),Reviewer 265,2023-02-23,en
+3,A bit pricey for the portion (visit 266),Reviewer 266,2023-03-24,en
+5,Food was fresh and delicious (visit 267),,2023-04-25,en
+2,Waited 40 minutes for a table (visit 268),Reviewer 268,2023-05-26,en
+4,"Cozy atmosphere, will return (visit 269)",Reviewer 269,2023-06-27,en
+5,The patio is great in summer (visit 270),,2023-07-01,en
+2,Service was slow on the weekend (visit 271),Reviewer 271,2023-08-02,en
+2,Parking lot fills up early (visit 272),Reviewer 272,2023-09-03,en
+5,Best coffee in the neighborhood (visit 273),,2023-10-04,en
+4,Friendly and attentive staff (visit 274),Reviewer 274,2023-11-05,en
+3,Very loud during peak hours (visit 275),Reviewer 275,2023-12-06,en
+3,A bit pricey for the portion (visit 276),,2023-01-07,en
+5,Food was fresh and delicious (visit 277),Reviewer 277,2023-02-08,en
+2,Waited 40 minutes for a table (visit 278),Reviewer 278,2023-03-09,en
+4,"Cozy atmosphere, will return (visit 279)",,2023-04-10,en
+5,The patio is great in summer (visit 280),Reviewer 280,2023-05-11,en
+2,Service was slow on the weekend (visit 281),Reviewer 281,2023-06-12,en
+2,Parking lot fills up early (visit 282),,2023-07-13,en
+5,Best coffee in the neighborhood (visit 283),Reviewer 283,2023-08-14,en
+4,Friendly and attentive staff (visit 284),Reviewer 284,2023-09-15,en
+3,Very loud during peak hours (visit 285),,2023-10-16,en
+3,A bit pricey for the portion (visit 286),Reviewer 286,2023-11-17,en
+5,Food was fresh and delicious (visit 287),Reviewer 287,2023-12-18,en
+2,Waited 40 minutes for a table (visit 288),,2023-01-19,en
+4,"Cozy atmosphere, will return (visit 289)",Reviewer 289,2023-02-20,en
+5,The patio is great in summer (visit 290),Reviewer 290,2023-03-21,en
+2,Service was slow on the weekend (visit 291),,2023-04-22,en
+2,Parking lot fills up early (visit 292),Reviewer 292,2023-05-23,en
+5,Best coffee in the neighborhood (visit 293),Reviewer 293,2023-06-24,en
+4,Friendly and attentive staff (visit 294),,2023-07-25,en
+3,Very loud during peak hours (visit 295),Reviewer 295,2023-08-26,en
+3,A bit pricey for the portion (visit 296),Reviewer 296,2023-09-27,en
+5,Food was fresh and delicious (visit 297),,2023-10-01,en
+2,Waited 40 minutes for a table (visit 298),Reviewer 298,2023-11-02,en
+4,"Cozy atmosphere, will return (visit 299)",Reviewer 299,2023-12-03,en
+5,The patio is great in summer (visit 300),,2023-01-04,en
+2,Service was slow on the weekend (visit 301),Reviewer 301,2023-02-05,en
+2,Parking lot fills up early (visit 302),Reviewer 302,2023-03-06,en
+5,Best coffee in the neighborhood (visit 303),,2023-04-07,en
+4,Friendly and attentive staff (visit 304),Reviewer 304,2023-05-08,en
+3,Very loud during peak hours (visit 305),Reviewer 305,2023-06-09,en
+3,A bit pricey for the portion (visit 306),,2023-07-10,en
+5,Food was fresh and delicious (visit 307),Reviewer 307,2023-08-11,en
+2,Waited 40 minutes for a table (visit 308),Reviewer 308,2023-09-12,en
+4,"Cozy atmosphere, will return (visit 309)",,2023-10-13,en
+5,The patio is great in summer (visit 310),Reviewer 310,2023-11-14,en
+2,Service was slow on the weekend (visit 311),Reviewer 311,2023-12-15,en
+2,Parking lot fills up early (visit 312),,2023-01-16,en
+5,Best coffee in the neighborhood (visit 313),Reviewer 313,2023-02-17,en
+4,Friendly and attentive staff (visit 314),Reviewer 314,2023-03-18,en
+3,Very loud during peak hours (visit 315),,2023-04-19,en
+3,A bit pricey for the portion (visit 316),Reviewer 316,2023-05-20,en
+5,Food was fresh and delicious (visit 317),Reviewer 317,2023-06-21,en
+2,Waited 40 minutes for a table (visit 318),,2023-07-22,en
+4,"Cozy atmosphere, will return (visit 319)",Reviewer 319,2023-08-23,en
+5,The patio is great in summer (visit 320),Reviewer 320,2023-09-24,en
+2,Service was slow on the weekend (visit 321),,2023-10-25,en
+2,Parking lot fills up early (visit 322),Reviewer 322,2023-11-26,en
+5,Best coffee in the neighborhood (visit 323),Reviewer 323,2023-12-27,en
+4,Friendly and attentive staff (visit 324),,2023-01-01,en
+3,Very loud during peak hours (visit 325),Reviewer 325,2023-02-02,en
+3,A bit pricey for the portion (visit 326),Reviewer 326,2023-03-03,en
+5,Food was fresh and delicious (visit 327),,2023-04-04,en
+2,Waited 40 minutes for a table (visit 328),Reviewer 328,2023-05-05,en
+4,"Cozy atmosphere, will return (visit 329)",Reviewer 329,2023-06-06,en
+5,The patio is great in summer (visit 330),,2023-07-07,en
+2,Service was slow on the weekend (visit 331),Reviewer 331,2023-08-08,en
+2,Parking lot fills up early (visit 332),Reviewer 332,2023-09-09,en
+5,Best coffee in the neighborhood (visit 333),,2023-10-10,en
+4,Friendly and attentive staff (visit 334),Reviewer 334,2023-11-11,en
+3,Very loud during peak hours (visit 335),Reviewer 335,2023-12-12,en
+3,A bit pricey for the portion (visit 336),,2023-01-13,en
+5,Food was fresh and delicious (visit 337),Reviewer 337,2023-02-14,en
+2,Waited 40 minutes for a table (visit 338),Reviewer 338,2023-03-15,en
+4,"Cozy atmosphere, will return (visit 339)",,2023-04-16,en
+5,The patio is great in summer (visit 340),Reviewer 340,2023-05-17,en
+2,Service was slow on the weekend (visit 341),Reviewer 341,2023-06-18,en
+2,Parking lot fills up early (visit 342),,2023-07-19,en
+5,Best coffee in the neighborhood (visit 343),Reviewer 343,2023-08-20,en
+4,Friendly and attentive staff (visit 344),Reviewer 344,2023-09-21,en
+3,Very loud during peak hours (visit 345),,2023-10-22,en
+3,A bit pricey for the portion (visit 346),Reviewer 346,2023-11-23,en
+5,Food was fresh and delicious (visit 347),Reviewer 347,2023-12-24,en
+2,Waited 40 minutes for a table (visit 348),,2023-01-25,en
+4,"Cozy atmosphere, will return (visit 349)",Reviewer 349,2023-02-26,en
+5,The patio is great in summer (visit 350),Reviewer 350,2023-03-27,en
+2,Service was slow on the weekend (visit 351),,2023-04-01,en
+2,Parking lot fills up early (visit 352),Reviewer 352,2023-05-02,en
+5,Best coffee in the neighborhood (visit 353),Reviewer 353,2023-06-03,en
+4,Friendly and attentive staff (visit 354),,2023-07-04,en
+3,Very loud during peak hours (visit 355),Reviewer 355,2023-08-05,en
+3,A bit pricey for the portion (visit 356),Reviewer 356,2023-09-06,en
+5,Food was fresh and delicious (visit 357),,2023-10-07,en
+2,Waited 40 minutes for a table (visit 358),Reviewer 358,2023-11-08,en
+4,"Cozy atmosphere, will return (visit 359)",Reviewer 359,2023-12-09,en
+5,The patio is great in summer (visit 360),,2023-01-10,en
+2,Service was slow on the weekend (visit 361),Reviewer 361,2023-02-11,en
+2,Parking lot fills up early (visit 362),Reviewer 362,2023-03-12,en
+5,Best coffee in the neighborhood (visit 363),,2023-04-13,en
+4,Friendly and attentive staff (visit 364),Reviewer 364,2023-05-14,en
+3,Very loud during peak hours (visit 365),Reviewer 365,2023-06-15,en
+3,A bit pricey for the portion (visit 366),,2023-07-16,en
+5,Food was fresh and delicious (visit 367),Reviewer 367,2023-08-17,en
+2,Waited 40 minutes for a table (visit 368),Reviewer 368,2023-09-18,en
+4,"Cozy atmosphere, will return (visit 369)",,2023-10-19,en
+5,The patio is great in summer (visit 370),Reviewer 370,2023-11-20,en
+2,Service was slow on the weekend (visit 371),Reviewer 371,2023-12-21,en
+2,Parking lot fills up early (visit 372),,2023-01-22,en
+5,Best coffee in the neighborhood (visit 373),Reviewer 373,2023-02-23,en
+4,Friendly and attentive staff (visit 374),Reviewer 374,2023-03-24,en
+3,Very loud during peak hours (visit 375),,2023-04-25,en
+3,A bit pricey for the portion (visit 376),Reviewer 376,2023-05-26,en
+5,Food was fresh and delicious (visit 377),Reviewer 377,2023-06-27,en
+2,Waited 40 minutes for a table (visit 378),,2023-07-01,en
+4,"Cozy atmosphere, will return (visit 379)",Reviewer 379,2023-08-02,en
+5,The patio is great in summer (visit 380),Reviewer 380,2023-09-03,en
+2,Service was slow on the weekend (visit 381),,2023-10-04,en
+2,Parking lot fills up early (visit 382),Reviewer 382,2023-11-05,en
+5,Best coffee in the neighborhood (visit 383),Reviewer 383,2023-12-06,en
+4,Friendly and attentive staff (visit 384),,2023-01-07,en
+3,Very loud during peak hours (visit 385),Reviewer 385,2023-02-08,en
+3,A bit pricey for the portion (visit 386),Reviewer 386,2023-03-09,en
+5,Food was fresh and delicious (visit 387),,2023-04-10,en
+2,Waited 40 minutes for a table (visit 388),Reviewer 388,2023-05-11,en
+4,"Cozy atmosphere, will return (visit 389)",Reviewer 389,2023-06-12,en
+5,The patio is great in summer (visit 390),,2023-07-13,en
+2,Service was slow on the weekend (visit 391),Reviewer 391,2023-08-14,en
+2,Parking lot fills up early (visit 392),Reviewer 392,2023-09-15,en
+5,Best coffee in the neighborhood (visit 393),,2023-10-16,en
+4,Friendly and attentive staff (visit 394),Reviewer 394,2023-11-17,en
+3,Very loud during peak hours (visit 395),Reviewer 395,2023-12-18,en
+3,A bit pricey for the portion (visit 396),,2023-01-19,en
+5,Food was fresh and delicious (visit 397),Reviewer 397,2023-02-20,en
+2,Waited 40 minutes for a table (visit 398),Reviewer 398,2023-03-21,en
+4,"Cozy atmosphere, will return (visit 399)",,2023-04-22,en
+5,The patio is great in summer (visit 400),Reviewer 400,2023-05-23,en
+2,Service was slow on the weekend (visit 401),Reviewer 401,2023-06-24,en
+2,Parking lot fills up early (visit 402),,2023-07-25,en
+5,Best coffee in the neighborhood (visit 403),Reviewer 403,2023-08-26,en
+4,Friendly and attentive staff (visit 404),Reviewer 404,2023-09-27,en
+3,Very loud during peak hours (visit 405),,2023-10-01,en
+3,A bit pricey for the portion (visit 406),Reviewer 406,2023-11-02,en
+5,Food was fresh and delicious (visit 407),Reviewer 407,2023-12-03,en
+2,Waited 40 minutes for a table (visit 408),,2023-01-04,en
+4,"Cozy atmosphere, will return (visit 409)",Reviewer 409,2023-02-05,en
+5,The patio is great in summer (visit 410),Reviewer 410,2023-03-06,en
+2,Service was slow on the weekend (visit 411),,2023-04-07,en
+2,Parking lot fills up early (visit 412),Reviewer 412,2023-05-08,en
+5,Best coffee in the neighborhood (visit 413),Reviewer 413,2023-06-09,en
+4,Friendly and attentive staff (visit 414),,2023-07-10,en
+3,Very loud during peak hours (visit 415),Reviewer 415,2023-08-11,en
+3,A bit pricey for the portion (visit 416),Reviewer 416,2023-09-12,en
+5,Food was fresh and delicious (visit 417),,2023-10-13,en
+2,Waited 40 minutes for a table (visit 418),Reviewer 418,2023-11-14,en
+4,"Cozy atmosphere, will return (visit 419)",Reviewer 419,2023-12-15,en
+5,The patio is great in summer (visit 420),,2023-01-16,en
+2,Service was slow on the weekend (visit 421),Reviewer 421,2023-02-17,en
+2,Parking lot fills up early (visit 422),Reviewer 422,2023-03-18,en
+5,Best coffee in the neighborhood (visit 423),,2023-04-19,en
+4,Friendly and attentive staff (visit 424),Reviewer 424,2023-05-20,en
+3,Very loud during peak hours (visit 425),Reviewer 425,2023-06-21,en
+3,A bit pricey for the portion (visit 426),,2023-07-22,en
+5,Food was fresh and delicious (visit 427),Reviewer 427,2023-08-23,en
+2,Waited 40 minutes for a table (visit 428),Reviewer 428,2023-09-24,en
+4,"Cozy atmosphere, will return (visit 429)",,2023-10-25,en
+5,The patio is great in summer (visit 430),Reviewer 430,2023-11-26,en
+2,Service was slow on the weekend (visit 431),Reviewer 431,2023-12-27,en
+2,Parking lot fills up early (visit 432),,2023-01-01,en
+5,Best coffee in the neighborhood (visit 433),Reviewer 433,2023-02-02,en
+4,Friendly and attentive staff (visit 434),Reviewer 434,2023-03-03,en
+3,Very loud during peak hours (visit 435),,2023-04-04,en
+3,A bit pricey for the portion (visit 436),Reviewer 436,2023-05-05,en
+5,Food was fresh and delicious (visit 437),Reviewer 437,2023-06-06,en
+2,Waited 40 minutes for a table (visit 438),,2023-07-07,en
+4,"Cozy atmosphere, will return (visit 439)",Reviewer 439,2023-08-08,en
+5,The patio is great in summer (visit 440),Reviewer 440,2023-09-09,en
+2,Service was slow on the weekend (visit 441),,2023-10-10,en
+2,Parking lot fills up early (visit 442),Reviewer 442,2023-11-11,en
+5,Best coffee in the neighborhood (visit 443),Reviewer 443,2023-12-12,en
+4,Friendly and attentive staff (visit 444),,2023-01-13,en
+3,Very loud during peak hours (visit 445),Reviewer 445,2023-02-14,en
+3,A bit pricey for the portion (visit 446),Reviewer 446,2023-03-15,en
+5,Food was fresh and delicious (visit 447),,2023-04-16,en
+2,Waited 40 minutes for a table (visit 448),Reviewer 448,2023-05-17,en
+4,"Cozy atmosphere, will return (visit 449)",Reviewer 449,2023-06-18,en
