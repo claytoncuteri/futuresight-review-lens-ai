@@ -17,6 +17,7 @@ from ..ingestion.csv_source import CsvError, CsvSource
 from ..ingestion.places import PlacesError, PlacesSource, resolve as places_resolve
 from ..qa import client as qa_client
 from ..qa import context, gate, prompt
+from ..summary import payload as summary_payload
 
 router = APIRouter(prefix="/api")
 
@@ -195,6 +196,15 @@ _TEMPLATE = (
     "5,\"Great food and friendly staff\",Dana P.,2024-03-02,en\n"
     "2,\"Slow service on the weekend\",,2024-03-14,en\n"
 )
+
+
+@router.get("/summary/{entity_id:path}")
+def summary(entity_id: str) -> dict:
+    """Return the summary payload (summary.md §4). Unlimited (idempotent read)."""
+    payload = summary_payload.build_payload(entity_id)
+    if payload is None:
+        raise HTTPException(status_code=404, detail="Unknown entity; ingest reviews first.")
+    return payload
 
 
 @router.get("/template")
