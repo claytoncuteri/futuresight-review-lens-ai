@@ -1,0 +1,8 @@
+rating,text,author,date,language
+5,Lovely brunch and quick service,Ana,2024-02-01,en
+,missing rating should be rejected,Ben,2024-02-02,en
+4,,missing text should be rejected,2024-02-03
+9,rating out of range should be rejected,Cara,2024-02-04,en
+3,Bad date is kept with a warning,Dan,not-a-real-date,en
+2,Duplicate row below,Eve,2024-02-05,en
+2,Duplicate row below,Eve,2024-02-05,en
