@@ -1,0 +1,277 @@
+:root {
+  --bg: #f7f7f8;
+  --card: #ffffff;
+  --ink: #1c1c1e;
+  --muted: #6b7280;
+  --line: #e5e7eb;
+  --accent: #2563eb;
+  --warn-bg: #fff7ed;
+  --warn-ink: #9a3412;
+  --error: #b91c1c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+.app {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 0 16px 48px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.topbar h1 {
+  font-size: 20px;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  gap: 8px;
+}
+
+button {
+  font: inherit;
+  padding: 8px 14px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+button.secondary {
+  background: #fff;
+  color: var(--accent);
+}
+
+button.nav {
+  background: #fff;
+  color: var(--ink);
+  border-color: var(--line);
+}
+
+button.nav.active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.content {
+  padding-top: 20px;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+}
+
+.card.generated {
+  background: #fbfaff;
+  border-style: dashed;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+input[type="text"],
+input[type="file"],
+select {
+  font: inherit;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  margin: 6px 8px 6px 0;
+  min-width: 260px;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.small {
+  font-size: 13px;
+}
+
+.error {
+  color: var(--error);
+}
+
+.row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.row.spread {
+  justify-content: space-between;
+}
+
+.candidate {
+  margin-top: 14px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.report {
+  margin-top: 12px;
+}
+
+.warnings {
+  background: var(--warn-bg);
+  border: 1px solid #fed7aa;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+}
+
+.warning-line {
+  color: var(--warn-ink);
+  margin: 4px 0;
+}
+
+.badge {
+  font-size: 11px;
+  text-transform: uppercase;
+  background: #ede9fe;
+  color: #6d28d9;
+  padding: 2px 8px;
+  border-radius: 999px;
+  margin-left: 6px;
+}
+
+.dist td {
+  padding: 2px 16px 2px 0;
+}
+
+.completeness {
+  margin: 6px 0;
+}
+
+.messages {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 16px 0;
+}
+
+.msg {
+  padding: 10px 14px;
+  border-radius: 10px;
+  max-width: 90%;
+}
+
+.msg.user {
+  align-self: flex-end;
+  background: var(--accent);
+  color: #fff;
+}
+
+.msg.assistant {
+  align-self: flex-start;
+  background: var(--card);
+  border: 1px solid var(--line);
+}
+
+.flag {
+  display: inline-block;
+  font-size: 11px;
+  color: var(--warn-ink);
+  background: var(--warn-bg);
+  border-radius: 999px;
+  padding: 1px 8px;
+  margin-bottom: 6px;
+}
+
+.citations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.citation {
+  font-size: 13px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 2px 10px;
+  background: #f9fafb;
+}
+
+.citation-meta {
+  color: var(--muted);
+  margin-right: 6px;
+}
+
+.matched {
+  margin-top: 10px;
+}
+
+.matched-body ul {
+  list-style: none;
+  padding: 0;
+}
+
+.matched-body li {
+  border-top: 1px solid var(--line);
+  padding: 8px 0;
+}
+
+.quota-warning {
+  background: var(--warn-bg);
+  color: var(--warn-ink);
+  border: 1px solid #fed7aa;
+  border-radius: 8px;
+  padding: 8px 14px;
+  margin-top: 12px;
+}
+
+.ask {
+  position: sticky;
+  bottom: 0;
+  background: var(--bg);
+  padding: 12px 0;
+}
+
+.ask input {
+  flex: 1;
+}
+
+code {
+  background: #f1f5f9;
+  padding: 1px 5px;
+  border-radius: 4px;
+}
