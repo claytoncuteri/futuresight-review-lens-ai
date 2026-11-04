@@ -1,0 +1,70 @@
+<!doctype html>
+<!-- Open Graph card for ReviewLens AI (1200x630). Rendered by `npm run make:og`
+     to public/og/home.png. Colours come from src/styles.css (:root tokens). -->
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=block" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #f7f7f8;     /* --bg */
+    --card: #ffffff;   /* --card */
+    --ink: #1c1c1e;    /* --ink */
+    --muted: #5b6270;  /* --muted, one step darker for 4.5:1 on --bg */
+    --line: #e5e7eb;   /* --line */
+    --accent: #2563eb; /* --accent: the one accent, used on the headline only */
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1200px; height: 630px; overflow: hidden; }
+  body {
+    font-family: Inter, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--ink);
+    background: var(--bg);
+    padding: 64px 72px;
+    display: flex;
+    gap: 56px;
+    align-items: center;
+  }
+  .left { flex: 1 1 auto; display: flex; flex-direction: column; height: 100%; justify-content: space-between; }
+  .brand { display: flex; align-items: center; gap: 16px; font-size: 34px; font-weight: 600; letter-spacing: -0.01em; }
+  .lens { position: relative; width: 40px; height: 40px; }
+  .lens::before { content: ""; position: absolute; left: 0; top: 0; width: 30px; height: 30px; border: 6px solid var(--ink); border-radius: 50%; }
+  .lens::after { content: ""; position: absolute; left: 26px; top: 27px; width: 16px; height: 6px; background: var(--ink); border-radius: 3px; transform: rotate(45deg); transform-origin: left center; }
+  h1 { font-size: 76px; line-height: 1.04; font-weight: 800; letter-spacing: -0.03em; }
+  h1 em { font-style: normal; color: var(--accent); }
+  .sub { font-size: 30px; line-height: 1.3; color: var(--muted); font-weight: 500; margin-top: 22px; }
+  .foot { font-size: 22px; color: var(--muted); font-weight: 500; }
+
+  .mock { flex: 0 0 380px; background: var(--card); border: 2px solid var(--line); border-radius: 20px; padding: 28px; display: flex; flex-direction: column; gap: 18px; box-shadow: 0 10px 30px rgba(28,28,30,0.06); }
+  .q { align-self: flex-end; background: var(--ink); color: #fff; font-size: 22px; font-weight: 500; padding: 12px 18px; border-radius: 16px 16px 4px 16px; }
+  .a { display: flex; flex-direction: column; gap: 10px; }
+  .bar { height: 14px; border-radius: 7px; background: var(--line); }
+  .cite { border: 2px solid var(--line); background: #f9fafb; border-radius: 12px; padding: 14px 16px; font-size: 21px; line-height: 1.35; color: var(--ink); }
+  .cite small { display: block; font-size: 15px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+</style>
+</head>
+<body>
+  <div class="left">
+    <div class="brand"><span class="lens"></span>ReviewLens AI</div>
+    <div>
+      <h1>Answers only from <em>real Google reviews</em></h1>
+      <p class="sub">Cited with exact quotes you can check.</p>
+    </div>
+    <div class="foot">Grounded Q&amp;A for one business</div>
+  </div>
+  <div class="mock" aria-hidden="true">
+    <div class="q">How is the service?</div>
+    <div class="a">
+      <div class="bar" style="width: 100%"></div>
+      <div class="bar" style="width: 82%"></div>
+    </div>
+    <div class="cite"><small>Cited review</small>&ldquo;Staff were quick and kind.&rdquo;</div>
+    <div class="a">
+      <div class="bar" style="width: 92%"></div>
+      <div class="bar" style="width: 60%"></div>
+    </div>
+  </div>
+</body>
+</html>
